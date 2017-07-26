@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "810119312922",
+    "firebase_url": "https://funshare-c6017.firebaseio.com",
+    "project_id": "funshare-c6017",
+    "storage_bucket": "funshare-c6017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810119312922:android:cc5cd506e81c1ce8",
+        "android_client_info": {
+          "package_name": "com.funshare.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810119312922-of3oe8mo0en8mhktdsndngiq9oiipvue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0u2Jr2YIa9VSW_FsjgNFunXO4F8QZws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810119312922:android:43edf514bbd2d5d2",
+        "android_client_info": {
+          "package_name": "com.funshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810119312922-of3oe8mo0en8mhktdsndngiq9oiipvue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0u2Jr2YIa9VSW_FsjgNFunXO4F8QZws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "react-native-swipe-cards@0.0.8",
+      "/home/ubuntu/NewFun"
+    ]
+  ],
+  "_from": "react-native-swipe-cards@0.0.8",
+  "_id": "react-native-swipe-cards@0.0.8",
+  "_inCache": true,
+  "_location": "/react-native-swipe-cards",
+  "_nodeVersion": "6.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-swipe-cards-0.0.8.tgz_1471020146899_0.614881471497938"
+  },
+  "_npmUser": {
+    "email": "ben@meteorfactory.io",
+    "name": "yogiben"
+  },
+  "_npmVersion": "3.9.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-swipe-cards",
+    "raw": "react-native-swipe-cards@0.0.8",
+    "rawSpec": "0.0.8",
+    "scope": null,
+    "spec": "0.0.8",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-swipe-cards/-/react-native-swipe-cards-0.0.8.tgz",
+  "_shasum": "7403985e3aaa8d54e4de5ea8e295a95439b0091e",
+  "_shrinkwrap": null,
+  "_spec": "react-native-swipe-cards@0.0.8",
+  "_where": "/home/ubuntu/NewFun",
+  "author": {
+    "name": "meteor-factory"
+  },
+  "bugs": {
+    "url": "https://github.com/meteor-factory/react-native-tinder-swipe-cards/issues"
+  },
+  "dependencies": {
+    "clamp": "^1.0.1"
+  },
+  "description": "Tinder style swipe cards for stylishly passing, failing a card",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7403985e3aaa8d54e4de5ea8e295a95439b0091e",
+    "tarball": "https://registry.npmjs.org/react-native-swipe-cards/-/react-native-swipe-cards-0.0.8.tgz"
+  },
+  "gitHead": "bbb91807d74011093391479ee751922b9a6a1f6f",
+  "homepage": "https://github.com/meteor-factory/react-native-tinder-swipe-cards#readme",
+  "installable": true,
+  "keywords": [
+    "cards",
+    "react-native",
+    "swipe",
+    "tinder"
+  ],
+  "license": "MIT",
+  "main": "SwipeCards.js",
+  "maintainers": [
+    {
+      "name": "yogiben",
+      "email": "ben@meteorfactory.io"
+    }
+  ],
+  "name": "react-native-swipe-cards",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteor-factory/react-native-tinder-swipe-cards.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.8"
+}

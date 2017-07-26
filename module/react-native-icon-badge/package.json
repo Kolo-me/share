@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "react-native-icon-badge@^1.1.1",
+      "/home/ubuntu/funshare"
+    ]
+  ],
+  "_from": "react-native-icon-badge@>=1.1.1 <2.0.0",
+  "_id": "react-native-icon-badge@1.1.1",
+  "_inCache": true,
+  "_location": "/react-native-icon-badge",
+  "_nodeVersion": "4.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-icon-badge-1.1.1.tgz_1470116129283_0.5243094034958631"
+  },
+  "_npmUser": {
+    "email": "wangyanqi@outlook.com",
+    "name": "yanqiw"
+  },
+  "_npmVersion": "2.14.20",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-icon-badge",
+    "raw": "react-native-icon-badge@^1.1.1",
+    "rawSpec": "^1.1.1",
+    "scope": null,
+    "spec": ">=1.1.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-icon-badge/-/react-native-icon-badge-1.1.1.tgz",
+  "_shasum": "d820fb1b2cd00f4187e26253accff8c35860d9e5",
+  "_shrinkwrap": null,
+  "_spec": "react-native-icon-badge@^1.1.1",
+  "_where": "/home/ubuntu/funshare",
+  "author": {
+    "name": "Frank Wang, Tomyli, Cynric"
+  },
+  "bugs": {
+    "url": "https://github.com/yanqiw/react-native-icon-badge/issues"
+  },
+  "dependencies": {},
+  "description": "add icon badge to other element for React Native",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "eslint": "<2.3.0",
+    "eslint-plugin-react": "^4.2.3"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d820fb1b2cd00f4187e26253accff8c35860d9e5",
+    "tarball": "https://registry.npmjs.org/react-native-icon-badge/-/react-native-icon-badge-1.1.1.tgz"
+  },
+  "gitHead": "36def9a830bb99f6054b96ed595228c338d3c234",
+  "homepage": "https://github.com/yanqiw/react-native-icon-badge#readme",
+  "installable": true,
+  "keywords": [
+    "icon-badge",
+    "react-native",
+    "react-native-component"
+  ],
+  "license": "ISC",
+  "main": "IconBadge.js",
+  "maintainers": [
+    {
+      "name": "yanqiw",
+      "email": "wangyanqi@outlook.com"
+    }
+  ],
+  "name": "react-native-icon-badge",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanqiw/react-native-icon-badge.git"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "version": "1.1.1"
+}

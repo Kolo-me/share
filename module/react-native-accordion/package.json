@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "react-native-accordion",
+      "/home/ubuntu/funshare"
+    ]
+  ],
+  "_from": "react-native-accordion@*",
+  "_id": "react-native-accordion@1.0.1",
+  "_inCache": true,
+  "_location": "/react-native-accordion",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-accordion-1.0.1.tgz_1469590427160_0.6407223993446678"
+  },
+  "_npmUser": {
+    "email": "hi@naoufal.com",
+    "name": "naoufal"
+  },
+  "_npmVersion": "3.7.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-accordion",
+    "raw": "react-native-accordion",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-accordion/-/react-native-accordion-1.0.1.tgz",
+  "_shasum": "1086ac012b9d7c90cd1efd014f2804baa16a1f5b",
+  "_shrinkwrap": null,
+  "_spec": "react-native-accordion",
+  "_where": "/home/ubuntu/funshare",
+  "author": {
+    "email": "naoufalkadhom@gmail.com",
+    "name": "Naoufal Kadhom",
+    "url": "https://github.com/naoufal"
+  },
+  "bugs": {
+    "url": "https://github.com/naoufal/react-native-accordion/issues"
+  },
+  "dependencies": {
+    "react-tween-state": "0.0.5"
+  },
+  "description": "An Accordion Component for React Native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1086ac012b9d7c90cd1efd014f2804baa16a1f5b",
+    "tarball": "https://registry.npmjs.org/react-native-accordion/-/react-native-accordion-1.0.1.tgz"
+  },
+  "gitHead": "1cc6b8362a34d4fa0d0ec10383d0f6eed0c792a9",
+  "homepage": "https://github.com/naoufal/react-native-accordion",
+  "installable": true,
+  "keywords": [
+    "accordion",
+    "native",
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "naoufal",
+      "email": "hi@naoufal.com"
+    }
+  ],
+  "name": "react-native-accordion",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoufal/react-native-accordion.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
